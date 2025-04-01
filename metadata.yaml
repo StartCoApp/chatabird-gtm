@@ -1,0 +1,5 @@
+homepage: "https://chatabird.com"
+documentation: "https://github.com/startcoapp/chatabird-gtm/blob/main/README.md"
+versions:
+  - sha: 5e2c8c8e1d6f4bd6c30dd3e715c13d8f9b1f87c4
+    changeNotes: Initial release. Adds Chatabird chat functionality to websites through Google Tag Manager.
